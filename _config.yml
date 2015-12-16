@@ -1,7 +1,7 @@
 name: kopeboy
 favicon: null
-layout_spectrum: 0.18312902771867812
-typography_spectrum: 0.34702822426334023
+layout_spectrum: 0.30452
+typography_spectrum: 0.40098
 title: Blog di Lorenzo Giovenali
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.06311509548686445
-  lightness: 0.31221094634383917
-  saturation: 0.03245340334251523
-  rhythmicContrast: 0.8665636025834829
+  brandStrength: 0.0625
+  lightness: 0.3125
+  saturation: 0.125
+  rhythmicContrast: 0.5
 purpose: []
