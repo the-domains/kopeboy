@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[kopeboy]]></title>
+        <description><![CDATA[kopeboy]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 16 Dec 2015 17:28:51 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Il mio blog]]></title>
+            <description><![CDATA[<article><h1>Il mio blog</h1><p>Provo a scrivere quello che mi passa per la testa la prima volta, naturalmente non cose personali, dato che se lo scrivo qua, voglio che tutti possano leggere.</p></article>]]></description>
+            <link>undefinedil-mio-blog/index.html</link>
+            <guid isPermaLink="false">a13854af-c7ca-4f0f-9de9-13225dc3b321</guid>
+            <pubDate>Wed, 16 Dec 2015 17:28:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
