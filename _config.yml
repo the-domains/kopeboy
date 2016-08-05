@@ -1,20 +1,4 @@
-name: kopeboy
-favicon: null
-layout_spectrum: 0.66483
 typography_spectrum: 0.40098
-title: Blog di Lorenzo Giovenali
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-48841203-3
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#F7EDF0'
@@ -26,4 +10,24 @@ color:
   lightness: 0.3125
   saturation: 0.125
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.66483
+analytics:
+  google: UA-48841203-3
+  facebook: null
+  twitter: null
+name: kopeboy
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Il mio blog
+    id: a13854af-c7ca-4f0f-9de9-13225dc3b321
+    type: content
+favicon: null
+title: Blog di Lorenzo Giovenali
 purpose: []
